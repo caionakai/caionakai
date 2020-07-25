@@ -11,6 +11,7 @@
   <li>👯 I’m looking to collaborate on challenging and interesting projects </br> </li>
   <li>💬 Ask me about React, JavaScript, HTML5, CSS3, Node, MongoDB and Animes</br> </li>
   <li>📫 How to reach me: caionakai2015@gmail.com </br></li>  
+  <li>💻 Check out my github <a href="https://caionakai.github.io/">page</a> 
 </ul>
 
 
