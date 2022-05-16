@@ -15,6 +15,7 @@
 </ul>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caionakai" />
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caionakai&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caionakai&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caionakai&theme=github_dark)
 
